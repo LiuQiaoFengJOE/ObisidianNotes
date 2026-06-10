@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "hchip/HDMI Wireless Display (TCP).canvas",
+                "file": "音视频开发/音视频开发.canvas",
                 "viewState": {
-                  "x": -316.49243308322747,
-                  "y": -761.9216162215519,
-                  "zoom": -0.3231373950762652
+                  "x": -79,
+                  "y": -139.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "HDMI Wireless Display (TCP)"
+              "title": "音视频开发"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "56e0d142625cd10b",
   "lastOpenFiles": [
-    "hchip/projector.canvas",
     "hchip/HDMI Wireless Display (TCP).canvas",
+    "hchip/projector.canvas",
     "hchip/Development Notes.canvas",
     "hchip/Pasted image 20260603191634.png",
     "未命名.md",
