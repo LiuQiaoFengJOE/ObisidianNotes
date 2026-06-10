@@ -4,20 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cd0afccce1c5f492",
+        "id": "97b5a708cf82e241",
         "type": "tabs",
         "children": [
           {
-            "id": "870e851dca3ce6f2",
+            "id": "d72bba614398e622",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "音视频开发/音视频开发.canvas",
+                "viewState": {
+                  "x": 116.03817195257787,
+                  "y": -147.54948200798438,
+                  "zoom": -0.3415117646470482
+                }
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "音视频开发"
             }
           }
         ]
@@ -111,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "未命名 1.base",
+            "file": "音视频开发/音视频开发.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "未命名 1.base",
+            "file": "音视频开发/音视频开发.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "未命名 1.base",
+            "file": "音视频开发/音视频开发.canvas",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -178,20 +182,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "870e851dca3ce6f2",
+  "active": "d72bba614398e622",
   "lastOpenFiles": [
-    "未命名.base",
     "未命名 1.base",
+    "音视频开发/音视频开发.canvas",
+    "AI相关/ai提示词命令.canvas",
+    "未命名.base",
     "hchip/projector.canvas",
     "hchip/Development Notes.canvas",
     "hchip/HDMI Wireless Display (TCP).canvas",
     "/hchip/projector.canvas",
     "/hchip/Development Notes.canvas",
     "/hchip",
-    "音视频开发/音视频开发.canvas",
     "/音视频开发/音视频开发.canvas",
     "/音视频开发",
-    "AI相关/ai提示词命令.canvas",
     "AI相关",
     "音视频开发",
     "hchip/Pasted image 20260602201034.png",
