@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e1e1c78c75fb1d5",
+        "id": "7b48e123ef025866",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ff40ce8594bd26",
+            "id": "1b59115f18673755",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,7 +16,7 @@
                 "file": "音视频开发/音视频开发.canvas",
                 "viewState": {
                   "x": 23,
-                  "y": -211.5,
+                  "y": -44,
                   "zoom": 0
                 }
               },
@@ -182,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9ff40ce8594bd26",
+  "active": "1b59115f18673755",
   "lastOpenFiles": [
+    "/音视频开发/音视频开发.canvas",
+    "/音视频开发",
     "音视频开发/音视频开发.canvas",
     "AI相关/ai提示词命令.canvas",
     "AI相关",
