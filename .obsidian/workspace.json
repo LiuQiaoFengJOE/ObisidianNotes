@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "30ea7bba4760be89",
+    "type": "split",
+    "children": [
+      {
+        "id": "986ba6d68b96913e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56e0d142625cd10b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "hchip/HDMI Wireless Display (TCP).canvas",
+                "viewState": {
+                  "x": 155.4048902070935,
+                  "y": -2016.28139689767,
+                  "zoom": -0.9898040617429318
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HDMI Wireless Display (TCP)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc30b9e60b41c89d",
+    "type": "split",
+    "children": [
+      {
+        "id": "21cc20bf0aaf88a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13443e8917d3ad5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9e5fd96f67d0b363",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "860cf709ebd85ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23c5c08d3b336676",
+    "type": "split",
+    "children": [
+      {
+        "id": "957229b40d1ecb70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae6c1a0d025bc6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development Notes.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Development Notes 的反向链接列表"
+            }
+          },
+          {
+            "id": "5c9e7ddbfb45d731",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development Notes.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Development Notes 的出链列表"
+            }
+          },
+          {
+            "id": "c9dba4a8ca66f26c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "27fe9317443d3306",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "40179ed9a5728378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Development Notes.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Development Notes 的大纲"
+            }
+          },
+          {
+            "id": "e54315fee8cce4d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "13443e8917d3ad5a",
+  "lastOpenFiles": [
+    "hchip/projector.canvas",
+    "hchip/HDMI Wireless Display (TCP).canvas",
+    "hchip/Development Notes.canvas",
+    "hchip/Pasted image 20260603191634.png",
+    "未命名.md",
+    "projector",
+    "hchip/Pasted image 20260603191509.png",
+    "音视频开发/音视频开发.canvas",
+    "2026-06-09.md",
+    "AI相关/ai提示词命令.canvas",
+    "AI相关",
+    "hchip/Pasted image 20260603104407.png",
+    "hchip/Pasted image 20260602201034.png",
+    "hc/Development Notes.canvas",
+    "hchip",
+    "HDMI Wireless Display (TCP)",
+    "音视频开发",
+    "hc/Pasted image 20260602201034.png",
+    "hc/Pasted image 20260603191509.png",
+    "hc",
+    "hc/Pasted image 20260603191634.png",
+    "6deb4fd46df46201ba4b82441769d037.png",
+    "编译后产生.png",
+    "Pasted image 20260603191317.png",
+    "new.md",
+    "2026-06-02.md",
+    "欢迎.md"
+  ]
+}
