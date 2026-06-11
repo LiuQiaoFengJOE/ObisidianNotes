@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "986ba6d68b96913e",
+        "id": "1b80fc900a817d10",
         "type": "tabs",
         "children": [
           {
-            "id": "56e0d142625cd10b",
+            "id": "b7fec1beca725e0c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "音视频开发/音视频开发.canvas",
-                "viewState": {
-                  "x": 93,
-                  "y": -144.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "音视频开发"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -197,16 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e0d142625cd10b",
+  "active": "e54315fee8cce4d2",
   "lastOpenFiles": [
-    "hchip/HDMI Wireless Display (TCP).canvas",
+    "音视频开发/音视频开发.canvas",
     "hchip/projector.canvas",
+    "hchip/HDMI Wireless Display (TCP).canvas",
     "hchip/Development Notes.canvas",
     "hchip/Pasted image 20260603191634.png",
     "未命名.md",
     "projector",
     "hchip/Pasted image 20260603191509.png",
-    "音视频开发/音视频开发.canvas",
     "2026-06-09.md",
     "AI相关/ai提示词命令.canvas",
     "AI相关",
